@@ -65,6 +65,8 @@ NSData *imageData = [NSData dataWithContentsOfURL:imageUrl];
 
 [URL编码与解码原理](http://blog.csdn.net/zmx729618/article/details/51381655)
 
+[Unicode 和UTF-8 有何区别？ - 知乎](https://www.zhihu.com/question/23374078)
+
 
 
 
